@@ -285,6 +285,10 @@ font-weight: 300;
   margin-bottom: 10px;
 }
 
+#first-paragraph {
+  clear: left;
+  padding-top: 20px;
+}
 /*
  * Footer
  */
