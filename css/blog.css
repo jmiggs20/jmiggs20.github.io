@@ -270,6 +270,12 @@ color: #f39c12;
   background-color: #d2322d;
 }
 
+/* About Page */
+
+#about img {
+  border-radius: 100px;
+}
+
 /*
  * Footer
  */
