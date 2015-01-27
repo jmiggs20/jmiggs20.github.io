@@ -301,6 +301,9 @@ font-weight: 300;
   height: 300px;
 }
 
+.example-2 {
+  width: 33.3333%;
+}
 .clear {
   clear: both;
 }
