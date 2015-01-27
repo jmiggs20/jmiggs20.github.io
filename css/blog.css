@@ -301,6 +301,12 @@ font-weight: 300;
   height: 300px;
 }
 
+.row-example:after {
+  clear:  both;
+  content: " ";
+  display: table;
+}
+
 .example-2 {
   width: 33.3333%;
   float: left;
