@@ -289,6 +289,13 @@ font-weight: 300;
   clear: left;
   padding-top: 20px;
 }
+
+/* Portfolio page */
+
+.example {
+  background color: #eee;
+}
+
 /*
  * Footer
  */
