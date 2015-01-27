@@ -303,6 +303,7 @@ font-weight: 300;
 
 .example-2 {
   width: 33.3333%;
+  float: left;
 }
 .clear {
   clear: both;
