@@ -308,6 +308,27 @@ font-weight: 300;
   clear: both;
 }
 
+.inner-example {
+  background-color: #eee;
+  margin: 5px;
+  border-radius: 5px;
+  box-shadow: 0 1px 1px #555;
+}
+
+.inner-example img {
+  max-width: 98%;
+  margin: 1%;
+}
+ .inner-example h3 {
+  margin: 5px;
+fontont-size: 20px;
+  border-bottom: 1px solid black;
+ }
+
+ .inner-example p {
+  padding:  5px;
+ }
+ 
 /*
  * Footer
  */
