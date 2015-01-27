@@ -311,6 +311,12 @@ font-weight: 300;
   text-align: center;
 }
 
+.sticky-footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
 /* responsive styling */
 
 @media (max-width: 991px) {
