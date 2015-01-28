@@ -375,4 +375,8 @@ fontont-size: 20px;
   .xs-center, #about h1{
     text-align: center;
   }
+
+  .sticky-footer {
+    position:static;
+  }
 }
