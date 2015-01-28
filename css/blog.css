@@ -372,7 +372,7 @@ fontont-size: 20px;
 }
 
 @media (max-width: 767px) {
-  #about img, #about h1{
+  .xs-center, #about h1{
     text-align: center;
   }
 }
