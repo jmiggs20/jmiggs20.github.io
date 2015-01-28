@@ -270,6 +270,14 @@ color: #f39c12;
   background-color: #d2322d;
 }
 
+
+/* Home page */
+
+#home-top {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
 /* About Page */
 
 #about h1 {
