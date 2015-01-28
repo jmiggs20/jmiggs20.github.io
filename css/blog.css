@@ -276,6 +276,7 @@ color: #f39c12;
 #home-top {
   padding-top: 60px;
   padding-bottom: 60px;
+  background: url(../images/background.jpg) repeat;
 }
 
 /* About Page */
