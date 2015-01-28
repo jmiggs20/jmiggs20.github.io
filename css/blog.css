@@ -279,6 +279,18 @@ color: #f39c12;
   background: url(../images/background.jpg) repeat;
 }
 
+#home-top h1 {
+  font-weight: 500px;
+}
+
+#home-top .btn {
+  font-size: 25px;
+}
+
+#home-top input.form-control {
+  font-size: 25px;
+  font-height: 50px;
+}
 /* About Page */
 
 #about h1 {
