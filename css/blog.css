@@ -280,6 +280,8 @@ font-weight: 300;
 
 #about img, #home-top img {
   border-radius: 100px;
+  -moz-border-radius: 100px;
+  -webkit-border-radius: 100px;
   margin-right: 30px;
   margin-bottom: 10px;
 }
