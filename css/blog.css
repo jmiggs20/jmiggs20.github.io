@@ -370,3 +370,9 @@ fontont-size: 20px;
     text-align: center;
   }
 }
+
+@media (max-width: 767px) {
+  #about img, #about h1{
+    text-align: center;
+  }
+}
