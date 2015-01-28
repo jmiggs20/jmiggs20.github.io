@@ -372,11 +372,11 @@ fontont-size: 20px;
 }
 
 @media (max-width: 767px) {
-  .xs-center, #about h1{
+  .xs-center, #about h1 {
     text-align: center;
   }
 
   .sticky-footer {
-    position:static;
+    position: static;
   }
 }
