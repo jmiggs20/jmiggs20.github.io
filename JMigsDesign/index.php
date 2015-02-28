@@ -35,7 +35,7 @@
 		$human = intval($_POST['human']);
 		$from = 'Contact Form'; 
 		$to = 'jmiggs20@aol.com'; 
-		$subject = 'Message from Contact';
+		$subject = 'Message from Web Contact';
 		
 		$body ="From: $name\n E-Mail: $email\n Message:\n $message";
 
